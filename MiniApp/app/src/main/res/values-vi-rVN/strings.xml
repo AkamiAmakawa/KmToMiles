@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mini App</string>
+    <string name="save">Lưu</string>
+    <string name="go_to_player">Tiếp</string>
+    <string name="wallpaper_preview">Wallpaper preview</string>
+    <string name="play">Bắt đầu</string>
+    <string name="pause">Tạm dừng</string>
+    <string name="resume">Tiếp tục</string>
+</resources>

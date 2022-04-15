@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mini App</string>
+    <string name="save">Save</string>
+    <string name="go_to_player">Go to player</string>
+    <string name="wallpaper_preview">Wallpaper preview</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+</resources>
